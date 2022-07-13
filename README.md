@@ -26,9 +26,9 @@ To not spoil the plot of the book, I won't go into more detail here.
 Python and PIP need to be available to run this program.
 
 ### Installing the Dependencies
-Before running the program install the required python modules defined in [requirements.txt](requirements.txt):
+Before running the program install the required python modules `Pillow` and `qrcode`:
 ```commandline
-pip install -r requirements.txt
+pip install Pillow qrcode
 ```
 
 ### Adjusting the Generated Image
