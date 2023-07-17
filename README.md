@@ -1,7 +1,7 @@
 # Snow Crash Generator
 ## About the Repository
 This is a small art project.
-A tribute to the science fiction novel 'Snow Crash' by Neal Stephenson, that I really liked to read.
+A tribute to the awesome science fiction novel 'Snow Crash' by Neal Stephenson.
 It was first published in 1992. Today it is  retro, modern and futuristic at once.
 
 This repository consists of a python program that generates an image from the binary data of text files.
